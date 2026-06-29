@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2p0094/chant/v1/juan/8
+seq: 8
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 治治取雄鷄一產搣谷之陰乾而冶多少如鷄令大如藥其汁漬脯三日食脯四寸六十五一曰取黃蜂駘廿置一桮醴中日中飲之一十易一曰取黃蜂百以美醬一桮漬一日一夜而出以汁漬疸糗九分升二誨食以酒飲三指最一曰平陵呂樂道贏中蟲陰乾冶欲廿用七最欲十用三最酒一桮
+  hash: sha256:09c22c5f8f67361942cd5d94c4962a6abd06975843be438cd6b47ea6904159c9
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2p0094_CHANT_008-1a.1-h}
+metadata:
+  title: 養生方釋文
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0094.xml
+hash: sha256:cac75592e874a8689333098c763b665891ddef5df9c75d23c61c510a091d320b

@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2p0094/chant/v1/juan/24
+seq: 24
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 益力益力敬清除心中惡氣取槐莢中實置竈五實𠐒甚之不𠐒益之令身若𠐒若不𠐒
+  hash: sha256:0f865e155d1fa59bd648be16cb0b434c24f76f68d893a34a17789751a093ddbf
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2p0094_CHANT_024-1a.1-h}
+metadata:
+  title: 養生方釋文
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0094.xml
+hash: sha256:3ef8eb2e9aa93c1fd4e0a7ab233be8c9ce1fc258788a3a52dad2d60dab101853

@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2p0094/chant/v1/juan/26
+seq: 26
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 醪利中醪利中取漆之莖少多等而其清汁四斗半之間為之若以釀之取熏烏豙八果取漆節之釀下善封其嬰口令之孰而以平一曰九斗先者二升其中十日冶從器出中服之百日令腸中毋病一曰為醪細斬漆節各一斗以水五浚以汁煮茈威有浚麥各一斗卒其時即浚黍稻各一斗并以汁修之如恆飯取烏豙三果乾疆五焦凡三物甫投之先置嬰中即釀黍其上汁均沃之有以美酒十斗沃之勿撓涂之十一孰矣即發勿釃稍清汁盡有以酒沃如此三而以餔食飲一咅已飲身𦡊養者靡之服之百日今目明耳葱末皆強病及偏枯
+  hash: sha256:c43110d56c3149a090e70ae085cc353aa8df71346f9de0e844facfaeb5817e2d
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2p0094_CHANT_026-1a.1-h}
+metadata:
+  title: 養生方釋文
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0094.xml
+hash: sha256:74927a44148444ec429cc7c4765836bf23b205a628305a73783ba6859746f7b2

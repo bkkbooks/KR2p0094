@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2p0094/chant/v1/juan/20
+seq: 20
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 用少用少男子用少而清雄二之血和完大如酸棗以為後飯治一即斗以化半斗牡腊升
+  hash: sha256:ab87a19bb10787c178bd1b97ed0fb7ec84c69baa2f00d6d040ebd59bb49e2aa8
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2p0094_CHANT_020-1a.1-h}
+metadata:
+  title: 養生方釋文
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0094.xml
+hash: sha256:89389387fedf1217a47d314ab5d7b1d54abfd0a63c49ddb8143568699d79235a

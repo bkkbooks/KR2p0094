@@ -1,0 +1,410 @@
+canonical_identifier: bkk:krp/KR2p0094/v1
+canonical_location: https://kanripo.org/bkk/KR2p0094/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 養生方釋文
+  identifiers:
+    krp: KR2p0094
+  tags:
+    kr-categories: KR2p
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0094.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 1, filename: KR2p0094_001.yaml, hash: 'sha256:321eecdf0d0c0ed93ee9941d592e3ee60ef0ac63271cfbde34d3a2e6eab12f19'}
+  - {seq: 2, filename: KR2p0094_002.yaml, hash: 'sha256:639b7f0431b822202f7b5b73bcd5df5d03b3f0a38cd3da25b1586eb91a93019a'}
+  - {seq: 3, filename: KR2p0094_003.yaml, hash: 'sha256:824c861dc090dd6b6c35ce45b5d5bcad97daf1ea2fc0f1417c2369ad000324dc'}
+  - {seq: 4, filename: KR2p0094_004.yaml, hash: 'sha256:cc439a733e1bca45306a146f74c08eddeecc95df2a9f5f55ed84f74ad153aca6'}
+  - {seq: 5, filename: KR2p0094_005.yaml, hash: 'sha256:37e8d6400c9d95ea5b812648359f6147cb6fe7572ba920dd008d96bcbea2d030'}
+  - {seq: 6, filename: KR2p0094_006.yaml, hash: 'sha256:a5043dc64c85abcfc8fa96bcc302b55ad239b0ee255ac5b792b62ba5648727b2'}
+  - {seq: 7, filename: KR2p0094_007.yaml, hash: 'sha256:8c6f7f6d44897de6c86b8b5691e81c9c28c22fa21725d417a9ded9c63a563d8d'}
+  - {seq: 8, filename: KR2p0094_008.yaml, hash: 'sha256:c270937e2be7ee2239b7ca936b1538e9294ab51728f936fce047adfe8073382d'}
+  - {seq: 9, filename: KR2p0094_009.yaml, hash: 'sha256:38bcccec2c29000352251fd6946abd6a8785ac3035e25ea025a68c67de04da7a'}
+  - {seq: 10, filename: KR2p0094_010.yaml, hash: 'sha256:fe7f9a33a42a53e70114e4fb02fe3e2e3b397b271ee97e540cc9564b2d4ffa77'}
+  - {seq: 11, filename: KR2p0094_011.yaml, hash: 'sha256:13398defc4be92f3b21f9b9a06e7bbf10ead11485ee7da9d8256203c09ab39b6'}
+  - {seq: 12, filename: KR2p0094_012.yaml, hash: 'sha256:30b081cb2bb9b5e8999e185816023f520d064a2648762d4dab22cbfb91ab9c92'}
+  - {seq: 13, filename: KR2p0094_013.yaml, hash: 'sha256:990958668d23738758aba9fabab9509380d0c7fe11d1e7abb2174863a818224c'}
+  - {seq: 14, filename: KR2p0094_014.yaml, hash: 'sha256:963ba276fe43654d685b378e3922e355882484000c0aa48cdd8ce81ab7643e5f'}
+  - {seq: 15, filename: KR2p0094_015.yaml, hash: 'sha256:58eac8c3a1536237a4635deec171e5cbee4d57b55ec528d54431c1a447deca66'}
+  - {seq: 16, filename: KR2p0094_016.yaml, hash: 'sha256:6a5c8255996a202879dd61e645037acc43e8b59fc64fb8d114efbb3447596d4d'}
+  - {seq: 17, filename: KR2p0094_017.yaml, hash: 'sha256:4172bfdea1f9487c3b78ad13df6f55262c71222fad7783dc57771de5c39de630'}
+  - {seq: 18, filename: KR2p0094_018.yaml, hash: 'sha256:df980ff3bc79844e30406d40505bb33d043cb142e2fd4b6a763fba2a9ba90fb9'}
+  - {seq: 19, filename: KR2p0094_019.yaml, hash: 'sha256:fa7736005b2d052f6c1d43e280f71f45219f4418f753760d05e91e4a4e14fe45'}
+  - {seq: 20, filename: KR2p0094_020.yaml, hash: 'sha256:8ba05df5c89cbb2f84aec30d7a1bbf2e060d06329eaac725cd179bb20515335e'}
+  - {seq: 21, filename: KR2p0094_021.yaml, hash: 'sha256:d01b465110077a9f45ccb7afa0f87328834ff9174a027e8813cc8d727df7f384'}
+  - {seq: 22, filename: KR2p0094_022.yaml, hash: 'sha256:66493186a8251e0b30389ae7f771df8808ca45e23197fa390d79e77ad4181473'}
+  - {seq: 23, filename: KR2p0094_023.yaml, hash: 'sha256:bedc8570ec0ea878cc58a7e41824dd6ce02aa65df34fbc183a9e15e7daca5aa0'}
+  - {seq: 24, filename: KR2p0094_024.yaml, hash: 'sha256:3ef8eb2e9aa93c1fd4e0a7ab233be8c9ce1fc258788a3a52dad2d60dab101853'}
+  - {seq: 25, filename: KR2p0094_025.yaml, hash: 'sha256:6bad448a149c9ee77b905641bc6928a5a45865f977e05de08a265e7e719dd08a'}
+  - {seq: 26, filename: KR2p0094_026.yaml, hash: 'sha256:74927a44148444ec429cc7c4765836bf23b205a628305a73783ba6859746f7b2'}
+  - {seq: 27, filename: KR2p0094_027.yaml, hash: 'sha256:577bc58402f8f4a42c0f3856de3653df1c3039c6e5eb6779bb36461683cd0e8b'}
+  - {seq: 28, filename: KR2p0094_028.yaml, hash: 'sha256:9dc4e5c3c1b3b798fa381fa520287f88b41d25bd0eba38fba6fbb0c5b86ea519'}
+  - {seq: 29, filename: KR2p0094_029.yaml, hash: 'sha256:e2e76ac344c91d174ea0e075efac5dd10835003c65e5e4111f75e127bfcbda2e'}
+  - {seq: 30, filename: KR2p0094_030.yaml, hash: 'sha256:8b9aa84610f349d4f4950b3337ae3b4d5fefba7cf96d7463dad87690da3e42ae'}
+  - {seq: 31, filename: KR2p0094_031.yaml, hash: 'sha256:ecb192f58281f424d0c310de45c0ced966cbbc3cbf08d23c5534e2dfc1b07d8a'}
+  - {seq: 32, filename: KR2p0094_032.yaml, hash: 'sha256:33f615b051abbd4b853f1f893220eb32d2fef54219035ac3e3475fbef2468fb1'}
+  - {seq: 33, filename: KR2p0094_033.yaml, hash: 'sha256:76586cf3a9ddb5872ff0462808db7ff79541b4289bc328c3921947bb5c77b807'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR2p0094_001.markers.yaml, hash: 'sha256:682035f55a72b82b71e223642fd4c8eb7de9cc94759452f119a80ff1410a0ef8'}
+  - {seq: 2, role: markers, filename: assets/KR2p0094_002.markers.yaml, hash: 'sha256:2406331d77bef303986f34864740ce117ce22371202280379657d8a05a5210fa'}
+  - {seq: 3, role: markers, filename: assets/KR2p0094_003.markers.yaml, hash: 'sha256:f7d73b529a2fe2b178ef0bf887b96c7b1d1afb563cf5a9392f5723f3fa79b9bb'}
+  - {seq: 4, role: markers, filename: assets/KR2p0094_004.markers.yaml, hash: 'sha256:4d90570c0aee32fb2681f772397169e38aa1eed7e0e378e7f2e3dee0424a0842'}
+  - {seq: 6, role: markers, filename: assets/KR2p0094_006.markers.yaml, hash: 'sha256:30c145f4b1082edfdfa5284235899c262f7e573e3c49a0b5ae4ab547455c235a'}
+  - {seq: 8, role: markers, filename: assets/KR2p0094_008.markers.yaml, hash: 'sha256:1e3208983eb3c0e3a105757c1b59fd4e633078fffad388e5e9beb5de508113d5'}
+  - {seq: 9, role: markers, filename: assets/KR2p0094_009.markers.yaml, hash: 'sha256:ecadcd7823f34fb3843803003e2081559899037515ae9054ff9ab6e7b4d0ad14'}
+  - {seq: 10, role: markers, filename: assets/KR2p0094_010.markers.yaml, hash: 'sha256:155766b8e089f17139b304c736b44dee47d3b8785686ab15d5488c46437848f1'}
+  - {seq: 11, role: markers, filename: assets/KR2p0094_011.markers.yaml, hash: 'sha256:6240e71383bacf97febe1ba12719c13f3808b4b33782e13b519bf48339460cf1'}
+  - {seq: 12, role: markers, filename: assets/KR2p0094_012.markers.yaml, hash: 'sha256:044258e975014c82656dd5f7f5d1777867f445472c4b41925e5593c2e6c16a2e'}
+  - {seq: 15, role: markers, filename: assets/KR2p0094_015.markers.yaml, hash: 'sha256:4ce4c4251d08ecd3a8264349a489a685b00ef9a1677bfd179d20c7fc80a4a007'}
+  - {seq: 16, role: markers, filename: assets/KR2p0094_016.markers.yaml, hash: 'sha256:4b9c808ca5c44adf819829cfc42e06abeed452ce6842ed7f39b786255f24e3e4'}
+  - {seq: 17, role: markers, filename: assets/KR2p0094_017.markers.yaml, hash: 'sha256:f2e847d19620e18c9e30797826def147d149b912cbed1a09cbdde3fef9c89a76'}
+  - {seq: 19, role: markers, filename: assets/KR2p0094_019.markers.yaml, hash: 'sha256:04ee7beecfaf6225b133402375bb03417312ab8b373db4ea7004c8d9ff2967fd'}
+  - {seq: 20, role: markers, filename: assets/KR2p0094_020.markers.yaml, hash: 'sha256:b0f82acb1a27aa6797c5464102b6953cab7c4af7d0b4455b5925a37e62d1de33'}
+  - {seq: 22, role: markers, filename: assets/KR2p0094_022.markers.yaml, hash: 'sha256:e2cc36719519cf021cf659deb099a56612850907289204f4bbbf3235395fa6ed'}
+  - {seq: 23, role: markers, filename: assets/KR2p0094_023.markers.yaml, hash: 'sha256:d4e6e123641306f0d1926bb9959bf2ae304a18d4b44bdefd350879773f656249'}
+  - {seq: 26, role: markers, filename: assets/KR2p0094_026.markers.yaml, hash: 'sha256:eac7b40b2417601542ced29a348ad820c7f363d8c6d2932415215d493898c2bb'}
+  - {seq: 27, role: markers, filename: assets/KR2p0094_027.markers.yaml, hash: 'sha256:63c6577a2eb243541858a6f371a054dcbbd82471b2f1372fe5cb3388f2de16b0'}
+  - {seq: 29, role: markers, filename: assets/KR2p0094_029.markers.yaml, hash: 'sha256:596dd938e4540493413e3602ca1563586a6ad8ff329bf8ddc443d31e5beeab93'}
+  - {seq: 31, role: markers, filename: assets/KR2p0094_031.markers.yaml, hash: 'sha256:1068335fe85fae0ead212d077621f50bde5d2c0db9bfec3bd569db44c6936776'}
+  - {seq: 32, role: markers, filename: assets/KR2p0094_032.markers.yaml, hash: 'sha256:b619ada93fc8922f57d6a2c87386368726d972430515f922894de5d1114a07b7'}
+  - {seq: 33, role: markers, filename: assets/KR2p0094_033.markers.yaml, hash: 'sha256:d7d6817a57619393c6dbc84b2ed3f00e82adbfe890071214f65e027e878039cc'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR2p0094_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 64
+  label: 養生方釋文
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR2p0094_CHANT_002-1a.1-h
+    span:
+    - body
+    - 0
+    - 118
+  label: 老不起
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR2p0094_CHANT_003-1a.1-h
+    span:
+    - body
+    - 0
+    - 20
+  label: 為醴
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR2p0094_CHANT_004-1a.1-h
+    span:
+    - body
+    - 0
+    - 94
+  label: 不起
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR2p0094_CHANT_005-1a.1-h
+    span:
+    - body
+    - 0
+    - 48
+  label: 加
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR2p0094_CHANT_006-1a.1-h
+    span:
+    - body
+    - 0
+    - 60
+  label: 筭
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR2p0094_CHANT_007-1a.1-h
+    span:
+    - body
+    - 0
+    - 23
+  label: 為醪勺
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR2p0094_CHANT_008-1a.1-h
+    span:
+    - body
+    - 0
+    - 115
+  label: 治
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR2p0094_CHANT_009-1a.1-h
+    span:
+    - body
+    - 0
+    - 123
+  label: 麥卵
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR2p0094_CHANT_010-1a.1-h
+    span:
+    - body
+    - 0
+    - 18
+  label: 洒男
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR2p0094_CHANT_011-1a.1-h
+    span:
+    - body
+    - 0
+    - 161
+  label: 勺
+  type: section
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR2p0094_CHANT_012-1a.1-h
+    span:
+    - body
+    - 0
+    - 122
+  label: 益甘
+  type: section
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR2p0094_CHANT_013-1a.1-h
+    span:
+    - body
+    - 0
+    - 70
+  label: 戲
+  type: section
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR2p0094_CHANT_014-1a.1-h
+    span:
+    - body
+    - 0
+    - 56
+  label: 去毛
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR2p0094_CHANT_015-1a.1-h
+    span:
+    - body
+    - 0
+    - 25
+  label: 病最穜
+  type: section
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR2p0094_CHANT_016-1a.1-h
+    span:
+    - body
+    - 0
+    - 204
+  label: 便近內
+  type: section
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR2p0094_CHANT_017-1a.1-h
+    span:
+    - body
+    - 0
+    - 422
+  label: 巾
+  type: section
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR2p0094_CHANT_018-1a.1-h
+    span:
+    - body
+    - 0
+    - 26
+  label: 巠身益力
+  type: section
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR2p0094_CHANT_019-1a.1-h
+    span:
+    - body
+    - 0
+    - 536
+  label: 除中益氣
+  type: section
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR2p0094_CHANT_020-1a.1-h
+    span:
+    - body
+    - 0
+    - 35
+  label: 用少
+  type: section
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR2p0094_CHANT_021-1a.1-h
+    span:
+    - body
+    - 0
+    - 11
+  label: 治力
+  type: section
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR2p0094_CHANT_022-1a.1-h
+    span:
+    - body
+    - 0
+    - 26
+  label: 黑髮
+  type: section
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR2p0094_CHANT_023-1a.1-h
+    span:
+    - body
+    - 0
+    - 21
+  label: 為醴
+  type: section
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR2p0094_CHANT_024-1a.1-h
+    span:
+    - body
+    - 0
+    - 34
+  label: 益力
+  type: section
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR2p0094_CHANT_025-1a.1-h
+    span:
+    - body
+    - 0
+    - 148
+  label: 益壽
+  type: section
+  level: 1
+- ref:
+    seq: 26
+    marker_id: KR2p0094_CHANT_026-1a.1-h
+    span:
+    - body
+    - 0
+    - 211
+  label: 醪利中
+  type: section
+  level: 1
+- ref:
+    seq: 27
+    marker_id: KR2p0094_CHANT_027-1a.1-h
+    span:
+    - body
+    - 0
+    - 37
+  label: 治
+  type: section
+  level: 1
+- ref:
+    seq: 28
+    marker_id: KR2p0094_CHANT_028-1a.1-h
+    span:
+    - body
+    - 0
+    - 20
+  label: 折角
+  type: section
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR2p0094_CHANT_029-1a.1-h
+    span:
+    - body
+    - 0
+    - 304
+  label: 走
+  type: section
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR2p0094_CHANT_030-1a.1-h
+    span:
+    - body
+    - 0
+    - 34
+  label: 疾行
+  type: section
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR2p0094_CHANT_031-1a.1-h
+    span:
+    - body
+    - 0
+    - 204
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 32
+    marker_id: KR2p0094_CHANT_032-1a.1-h
+    span:
+    - body
+    - 0
+    - 199
+  label: 語
+  type: section
+  level: 1
+- ref:
+    seq: 33
+    marker_id: KR2p0094_CHANT_033-1a.1-h
+    span:
+    - body
+    - 0
+    - 44
+  label: 食引
+  type: section
+  level: 1
+hash: sha256:50d884f9f5ffa13c9ae450775d281d6103d4788057c3325a6156592fc901665b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

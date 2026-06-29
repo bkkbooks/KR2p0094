@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2p0094/chant/v1/juan/3
+seq: 3
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 為醴為醴為醴取黍米稻米稻醴孰即誨朝厭欼更
+  hash: sha256:b98ff840180b761e6d2d44c3f29b1d9299c9a29307ed5a2d4b172fa66a5fe89a
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2p0094_CHANT_003-1a.1-h}
+metadata:
+  title: 養生方釋文
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0094.xml
+hash: sha256:716596af3d668c5e4bbf5305c86d8a65d33a3c67c018cd132dddb6396771badc

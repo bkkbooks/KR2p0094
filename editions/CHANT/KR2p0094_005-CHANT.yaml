@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2p0094/chant/v1/juan/5
+seq: 5
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 加加以五月望取萊蕳陰乾冶之有冶白松脂之各半之善裹以韋日一飲之誨飲三指最入酒中力善行雖旦莫飲之可殹
+  hash: sha256:1ca0996a4a4e4c4c40313093527d97c2f1321ca6627302f3184f49369cdf30fc
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2p0094_CHANT_005-1a.1-h}
+metadata:
+  title: 養生方釋文
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0094.xml
+hash: sha256:37e8d6400c9d95ea5b812648359f6147cb6fe7572ba920dd008d96bcbea2d030

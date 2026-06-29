@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2p0094/chant/v1/juan/7
+seq: 7
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 為醪勺為醪勺以美酒三斗漬麥成醪飲之男以稱醴煮韰
+  hash: sha256:ed40cb9ff991f59e2ca60c4b2f300e711c20ab60644b4ac25aefc9658cde8fbd
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2p0094_CHANT_007-1a.1-h}
+metadata:
+  title: 養生方釋文
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0094.xml
+hash: sha256:8c6f7f6d44897de6c86b8b5691e81c9c28c22fa21725d417a9ded9c63a563d8d

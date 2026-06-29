@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2p0094/chant/v1/juan/4
+seq: 4
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不起不起為不起者旦為善水鬻而以厭為故然而出之如此二且起矣勿有益二日不用以水之把用已後再啜一已後三不過三啜珵後用其啜毋相次啜若已施以寒水淺毋必有啜飲食棄水已必以氣鉤口卬之比稍以鼻出氣復氣老者
+  hash: sha256:ab72370ad01438449cec1b9c1557f76d485171ec5dbeb19983adfacc3c75a5e5
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2p0094_CHANT_004-1a.1-h}
+metadata:
+  title: 養生方釋文
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0094.xml
+hash: sha256:cc439a733e1bca45306a146f74c08eddeecc95df2a9f5f55ed84f74ad153aca6

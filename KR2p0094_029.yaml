@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2p0094/chant/v1/juan/29
+seq: 29
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 走走非廉方葵石韋桔梗茈威各一小束烏豙三果大箁五寸白螣蛇若蒼梗蛇長三四寸若各蠱并以若棗脂完大如羊矢五十里一食陰囷出雒七百一曰烏豙五龍慨三石韋方風伏兔各陰乾去其蠱五物入酒中一日一夜浚去其以汁漬飯如食頃乾乾有復乾索汁而成一曰烏豙二北南陳陽骨一蠱并以細新白布裹三馬膏棲肥雞復瓦茝長如中指置汁出茝以囊盛日棄貍節行漬東行水一杯置二以出見日飲之一曰犬三卒烏豙一半冶之為一曰走者取女服一斗取一曰有晦漬晝乾之盡行百里一曰行宿自呼大山之陽天先城郭不完以金關即禹步三曰以産荊長二寸周晝中一曰東鄉呼敢告東君明星來敢到畫所者席彼裂瓦何人有即周中一曰走疾欲善先者取女子未嘗男子者縣枲懷之見旋風以投之風止即帶之疾行取牛車枲䋰帶之欲疾一約之
+  hash: sha256:4798c8e01a1b703047d166eaec2440f0a6bc13cdbcf8a59a7a6a80d4481a66de
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2p0094_CHANT_029-1a.1-h}
+metadata:
+  title: 養生方釋文
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0094.xml
+hash: sha256:e2e76ac344c91d174ea0e075efac5dd10835003c65e5e4111f75e127bfcbda2e

@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2p0094/chant/v1/juan/21
+seq: 21
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 治力治力身若𠐒若不𠐒以
+  hash: sha256:427fdc686814eb22eddd2483e9e9120164b048011e27ae22ed9b28e3293a7512
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2p0094_CHANT_021-1a.1-h}
+metadata:
+  title: 養生方釋文
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0094.xml
+hash: sha256:d01b465110077a9f45ccb7afa0f87328834ff9174a027e8813cc8d727df7f384

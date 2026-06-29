@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2p0094/chant/v1/juan/30
+seq: 30
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 疾行一曰行欲毋足痛者南鄉禹步三曰何水不酨何道不枯氣我末即取突墨內履中
+  hash: sha256:bfe3fffa9b341a9b294f5aefe76450694c59b31680fcfcd0481ae0d1e51a6dae
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2p0094_CHANT_030-1a.1-h}
+metadata:
+  title: 養生方釋文
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0094.xml
+hash: sha256:8b9aa84610f349d4f4950b3337ae3b4d5fefba7cf96d7463dad87690da3e42ae

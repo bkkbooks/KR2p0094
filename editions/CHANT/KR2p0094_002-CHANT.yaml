@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2p0094/chant/v1/juan/2
+seq: 2
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 老不起老不起臭可和則乃下一曰以瘨棘為漿方刌瘨棘長寸節者三斗之以雚堅稠節者爨大㵒止火㵒定復爨之不欲如此二斗半以故瓦器盛為剛炊秫米二斗而足之氣孰旬寒即乾沃之居二日而槳節已近內而飲此漿一升漿侍其汁節漿以沃之令酸甘飲之雖使人即起漿所一曰漬烏矣有
+  hash: sha256:b933910cf4f1b20966e7fc1ad76c24394c8cbc6e2b072b224e19eb36914424ae
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2p0094_CHANT_002-1a.1-h}
+metadata:
+  title: 養生方釋文
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0094.xml
+hash: sha256:9291ef4a4a399c84d1d685e60013386b0809108fc47d2628e5476175dfb23769
