@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 養生方釋文養生方釋文老不起洒男巠身益力醪利中為醴勺除中益氣治不起益甘用少折角加戲治力走筭去毛疾行虽醪勺病最種治便近內語麥卵巾食引
-  hash: sha256:b279309c70505573efd61e810d5e4e7f5a818a37f71b9dddeb51e2b10ed418d7
+  text: 養生方釋文養生方釋文老不起灑男巠身益力醪利中為醴勺除中益氣治不起益甘用少折角加戲治力走算去毛疾行雖醪勺病最種治便近內語麥卵巾食引
+  hash: sha256:61d8513c9ea0ba4e0e071b934ec933527a3b7d253cc3fcdd95d979a97319a011
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR2p0094_CHANT_001-1a.1-h}
 metadata:
@@ -15,4 +15,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR2p0094.xml
-hash: sha256:47293b50a03b9783c5b23e6752b9e0219996ad27203d3b24d521708da749a2f4
+hash: sha256:321eecdf0d0c0ed93ee9941d592e3ee60ef0ac63271cfbde34d3a2e6eab12f19

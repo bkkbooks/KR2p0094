@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 病最穜病最穜冶柳付與志脂膏相挐和以傅穜者巳即裹以布
-  hash: sha256:39c266dd367bf3f2f657d8aec65ba2a6d42290c07c5aa62a1049d73c173da6ed
+  text: 病最穜病最穜冶柳付與志脂膏相拿和以傅穜者巳即裹以布
+  hash: sha256:88626e40ac05d30cf1b5590f5cfdeed9e1a697d92dbec228c1cb85d31fd6c936
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR2p0094_CHANT_015-1a.1-h}
 metadata:
@@ -15,4 +15,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR2p0094.xml
-hash: sha256:882ab1e028c79044d70daa7c822503b86650d777421ad5541ae5c9308039b823
+hash: sha256:58eac8c3a1536237a4635deec171e5cbee4d57b55ec528d54431c1a447deca66

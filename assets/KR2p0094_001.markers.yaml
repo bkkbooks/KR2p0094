@@ -20,6 +20,7 @@ markers:
   - {type: punctuation, offset: 13, content: ＃, id: KR2p0094_CHANT_001-bkkpn5}
   - {type: punctuation, offset: 13, content: ＃, id: KR2p0094_CHANT_001-bkkpn6}
   - {type: punctuation, offset: 13, content: ＃, id: KR2p0094_CHANT_001-bkkpn7}
+  - {type: substitution, offset: 13, original: 洒, replacement: 灑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17012}}
   - {type: punctuation, offset: 15, content: '|', id: KR2p0094_CHANT_001-bkkpn8}
   - {type: indent, offset: 15, content: 　, id: KR2p0094_CHANT_001-bkkind5}
   - {type: indent, offset: 15, content: 　, id: KR2p0094_CHANT_001-bkkind6}
@@ -96,6 +97,7 @@ markers:
   - {type: punctuation, offset: 42, content: '|', id: KR2p0094_CHANT_001-bkkpn37}
   - {type: punctuation, offset: 43, content: '|', id: KR2p0094_CHANT_001-bkkpn38}
   - {type: punctuation, offset: 43, content: '|', id: KR2p0094_CHANT_001-bkkpn39}
+  - {type: substitution, offset: 43, original: 筭, replacement: 算, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20121}}
   - {type: punctuation, offset: 44, content: '|', id: KR2p0094_CHANT_001-bkkpn40}
   - {type: indent, offset: 44, content: 　, id: KR2p0094_CHANT_001-bkkind49}
   - {type: indent, offset: 44, content: 　, id: KR2p0094_CHANT_001-bkkind50}
@@ -117,6 +119,7 @@ markers:
   - {type: punctuation, offset: 46, content: '|', id: KR2p0094_CHANT_001-bkkpn46}
   - {type: punctuation, offset: 48, content: '|', id: KR2p0094_CHANT_001-bkkpn47}
   - {type: punctuation, offset: 48, content: '|', id: KR2p0094_CHANT_001-bkkpn48}
+  - {type: substitution, offset: 48, original: 虽, replacement: 雖, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16916}}
   - {type: punctuation, offset: 51, content: '|', id: KR2p0094_CHANT_001-bkkpn49}
   - {type: indent, offset: 51, content: 　, id: KR2p0094_CHANT_001-bkkind61}
   - {type: indent, offset: 51, content: 　, id: KR2p0094_CHANT_001-bkkind62}
@@ -184,4 +187,4 @@ markers:
   - {type: punctuation, offset: 64, content: '|', id: KR2p0094_CHANT_001-bkkpn77}
   - {type: xml-element, offset: 64, content: '', id: KR2p0094_CHANT_001-bkkxmlele4, name: p, role: close}
   back: []
-hash: sha256:ba9a50a3ecb43f733d47a446c62da27fc27655a1fcdef811a00ee18e581be398
+hash: sha256:4b27c119947001faff1a0c93b66a01a09e4d9a03a5a87a44018293fa6e84c305

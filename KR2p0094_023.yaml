@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 為醴為醴用石膏一斤少半稾本牛膝二斗上其汁淳
-  hash: sha256:1bafd6265013de87b3b81283dbba47e834027be40a198e6f3ff6516a836aadb0
+  text: 為醴為醴用石膏一斤少半稿本牛膝二斗上其汁淳
+  hash: sha256:ebf672599232e335f83a38db1dbe43cbfa154b172fdaaf4c25ceecd3532ea6f9
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR2p0094_CHANT_023-1a.1-h}
 metadata:
@@ -15,4 +15,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR2p0094.xml
-hash: sha256:c4039d80df45c4616189ac89361adcf7965472dd3ffc0eb6df6df5cdac0dc9ed
+hash: sha256:bedc8570ec0ea878cc58a7e41824dd6ce02aa65df34fbc183a9e15e7daca5aa0

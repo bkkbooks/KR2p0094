@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 去毛去毛欲去毛新乳始沐即先沐下乃沐其洫毛去矣一曰煎白罌丘引殽智蛛罔及苦瓠而醉𢧤即以汁傅之一曰以五月拔而以稱醴傅之
-  hash: sha256:569cb18489c30370faf418df21fe8806a17669ad81be668e9cc6afc26388a8fd
+  text: 去毛去毛欲去毛新乳始沐即先沐下乃沐其洫毛去矣一曰煎白罌丘引殽智蛛罔及苦瓠而醉𡙮即以汁傅之一曰以五月拔而以稱醴傅之
+  hash: sha256:2271b267a8e24939be2a81b31dfabce04d1c8b7345cbb47a4fb30cc31a165821
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR2p0094_CHANT_014-1a.1-h}
 metadata:
@@ -15,4 +15,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR2p0094.xml
-hash: sha256:963ba276fe43654d685b378e3922e355882484000c0aa48cdd8ce81ab7643e5f
+hash: sha256:6424fefc1d2b7366058e1fc182f8474a1ae38984ff4d6732fd0bb8bce920c360

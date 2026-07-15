@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 為醴為醴為醴取黍米稻米稻醴孰即誨朝厭欼更
-  hash: sha256:b98ff840180b761e6d2d44c3f29b1d9299c9a29307ed5a2d4b172fa66a5fe89a
+  text: 為醴為醴為醴取黍米稻米稻醴孰即誨朝厭啜更
+  hash: sha256:95861b339b283f98ac4164a633f619f3710a845d133677939d8782e3bd198a09
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR2p0094_CHANT_003-1a.1-h}
 metadata:
@@ -15,4 +15,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR2p0094.xml
-hash: sha256:716596af3d668c5e4bbf5305c86d8a65d33a3c67c018cd132dddb6396771badc
+hash: sha256:824c861dc090dd6b6c35ce45b5d5bcad97daf1ea2fc0f1417c2369ad000324dc

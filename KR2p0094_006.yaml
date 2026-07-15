@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 筭筭以五月望取𧈪鄉軵者入籥盈籥長五之置甗中傅炊澤上而出重不智即取籥中樂大如黍一曰以五月備毚黃即多為善臧一曰治中者段烏此醯
-  hash: sha256:e4633427d09f8830d91c6431622e1fb1464ceff68bac38cd802eb7229bdd9fae
+  text: 算算以五月望取𧈪鄉軵者入籥盈籥長五之置甗中傅炊澤上而出重不智即取籥中樂大如黍一曰以五月備毚黃即多為善臧一曰治中者段烏此醯
+  hash: sha256:d610f99b3fb64c5546e04f6f57286cea5503122e9fdf3318f7f6cc4b78317d48
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR2p0094_CHANT_006-1a.1-h}
 metadata:
@@ -15,4 +15,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR2p0094.xml
-hash: sha256:f2bc1b65ed9cf14ed8ae5e7317cba1f754fa5f891ffb0e10701b5fdb9236c02e
+hash: sha256:a5043dc64c85abcfc8fa96bcc302b55ad239b0ee255ac5b792b62ba5648727b2
